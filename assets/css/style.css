@@ -560,6 +560,9 @@
     .logo {
         display: none;
     }
+    .font8{
+        font-size: 14px;
+    }
 }
 
 @media(max-width:408px) {
