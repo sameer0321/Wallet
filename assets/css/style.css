@@ -601,3 +601,9 @@
 .button-text{
     color: black;
 }
+.heart:hover{
+    fill: pink !important;
+}
+.comment-box:hover{
+    fill: gray !important;
+}
